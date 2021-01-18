@@ -1,0 +1,35 @@
+.nav{
+    background-color: #232f3E;
+    height: 39px;
+    color: white;
+    padding: 10px;
+    align-items: center;
+    margin-right: auto;    
+    margin-left: auto;    
+    max-width: 100%;    
+    min-width: 1900px;
+}
+.nav > span{
+    display: inline;
+    justify-content: space-evenly;
+    text-decoration: none;
+}
+.nav__menu{
+    padding-right: 10px;
+    align-items: center;
+}
+.nav__all{
+    font-weight: 700;
+}
+.nav__text{
+    font: 12px;
+    padding: 8px 12px;
+    margin: 5px 0px 6px;
+}
+.nav__textRight{
+    font-size: 14px;
+    margin: 6px 2px 7px 1px;
+    padding: 5px 8px 6px;
+    padding-left: 80px;
+    font-weight: 700;
+}

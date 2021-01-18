@@ -1,0 +1,16 @@
+.footer{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    height: 75px;
+    background-color: #131A22;
+    bottom: 0;
+}
+.footer__logo{
+    object-fit: contain;
+    width: 100px;
+    
+}
