@@ -3,7 +3,7 @@ const express = require('express');
 const cors = require('cors');
 
 const stripe = require('stripe')(
-  'sk_test_51I251DLABLX75xucnj1FRkbpy7WmHe1C5BOmGvZniGS9Md0WLfAyS29xGAMse8YWFllFOICzPZAlwJvQwkgWfXEf00cOzPqrt6'
+ // 'stripe secret API key goes here'
 );
 
 // - API
